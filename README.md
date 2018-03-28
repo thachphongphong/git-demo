@@ -15,3 +15,5 @@
 9 .Deploy to production from master any time, because you know it's stable.
 
 B: B add this line
+
+A: A adds this line
