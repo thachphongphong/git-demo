@@ -17,3 +17,7 @@
 B: B add this line
 
 A: A adds this line
+
+B: B adds second line
+B: B adds third line
+B: B adds fouth line
