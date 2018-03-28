@@ -14,9 +14,4 @@
 8. Everything works fine. Merge develop into master.
 9 .Deploy to production from master any time, because you know it's stable.
 
-B: B add this line
-
-A: A adds this line
-
-A: A adds second line
-A: A adds third line
+ 
